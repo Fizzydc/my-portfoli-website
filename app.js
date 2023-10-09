@@ -1,4 +1,3 @@
-window.alert(hey whats up);
 
 alert("welcome!");
 

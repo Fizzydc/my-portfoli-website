@@ -1,4 +1,3 @@
-
 alert("welcome!");
 
 var VisitorsName = prompt("what is your name");
